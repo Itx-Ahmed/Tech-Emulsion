@@ -1,5 +1,11 @@
+import Innofusiontech from "../../components/about/Innofusiontech";
+
 function About() {
-  return <div>About page</div>;
+  return (
+    <>
+      <Innofusiontech />
+    </>
+  );
 }
 
 export default About;

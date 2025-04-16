@@ -1,6 +1,7 @@
 import AboutAndConnectSection from "../../components/about/about-and-connect-section";
 import HowweEmpower from "../../components/about/HowweEmpower";
 import Innofusiontech from "../../components/about/Innofusiontech";
+import VisionAndExpertise from "../../components/about/VisionAndExpertise";
 
 function About() {
   return (
@@ -8,6 +9,7 @@ function About() {
       <Innofusiontech />
       <AboutAndConnectSection />
       <HowweEmpower />
+      <VisionAndExpertise />
     </>
   );
 }

@@ -1,5 +1,3 @@
-import React from "react";
-
 function Innofusiontech() {
   return (
     <div className="flex flex-col md:flex-row items-center md:items-start justify-between px-4 py-10 md:px-16 md:py-20 bg-white gap-10">

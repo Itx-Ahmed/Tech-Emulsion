@@ -4,6 +4,7 @@ import HowweEmpower from "../../components/about/HowweEmpower";
 import Innofusiontech from "../../components/about/Innofusiontech";
 import SaaSShowcase from "../../components/about/SaaSShowcase";
 import ServicesOverview from "../../components/about/ServicesOverview";
+import TrustedByBrands from "../../components/about/TrustedByBrands";
 import VisionAndExpertise from "../../components/about/VisionAndExpertise";
 
 function About() {
@@ -16,6 +17,7 @@ function About() {
       <ServicesOverview />
       <CreativePortfolio />
       <SaaSShowcase />
+      <TrustedByBrands />
     </>
   );
 }

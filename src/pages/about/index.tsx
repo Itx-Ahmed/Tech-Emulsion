@@ -1,4 +1,5 @@
 import AboutAndConnectSection from "../../components/about/about-and-connect-section";
+import CoreValues from "../../components/about/CoreValues";
 import CreativePortfolio from "../../components/about/CreativePortfolio";
 import HowweEmpower from "../../components/about/HowweEmpower";
 import Innofusiontech from "../../components/about/Innofusiontech";
@@ -20,6 +21,7 @@ function About() {
       <SaaSShowcase />
       <TrustedByBrands />
       <Testimonials />
+      <CoreValues />
     </>
   );
 }
